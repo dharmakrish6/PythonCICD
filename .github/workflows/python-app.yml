@@ -25,4 +25,4 @@ jobs:
         pip install requirements.txt
     - name: Test 
       run: |
-        python apitest.py
+        python sample.py
